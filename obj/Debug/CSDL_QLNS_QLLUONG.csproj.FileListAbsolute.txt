@@ -1,0 +1,14 @@
+J:\LẬP TRÌNH .NET\dotnet_1\CSDL_QLNS_QLLUONG\bin\Debug\CSDL_QLNS_QLLUONG.exe.config
+J:\LẬP TRÌNH .NET\dotnet_1\CSDL_QLNS_QLLUONG\bin\Debug\CSDL_QLNS_QLLUONG.exe
+J:\LẬP TRÌNH .NET\dotnet_1\CSDL_QLNS_QLLUONG\bin\Debug\CSDL_QLNS_QLLUONG.pdb
+J:\LẬP TRÌNH .NET\dotnet_1\CSDL_QLNS_QLLUONG\obj\Debug\CSDL_QLNS_QLLUONG.csproj.AssemblyReference.cache
+J:\LẬP TRÌNH .NET\dotnet_1\CSDL_QLNS_QLLUONG\obj\Debug\CSDL_QLNS_QLLUONG.FrmChucVu.resources
+J:\LẬP TRÌNH .NET\dotnet_1\CSDL_QLNS_QLLUONG\obj\Debug\CSDL_QLNS_QLLUONG.FrmPhongBan.resources
+J:\LẬP TRÌNH .NET\dotnet_1\CSDL_QLNS_QLLUONG\obj\Debug\CSDL_QLNS_QLLUONG.Properties.Resources.resources
+J:\LẬP TRÌNH .NET\dotnet_1\CSDL_QLNS_QLLUONG\obj\Debug\CSDL_QLNS_QLLUONG.csproj.GenerateResource.cache
+J:\LẬP TRÌNH .NET\dotnet_1\CSDL_QLNS_QLLUONG\obj\Debug\CSDL_QLNS_QLLUONG.csproj.CoreCompileInputs.cache
+J:\LẬP TRÌNH .NET\dotnet_1\CSDL_QLNS_QLLUONG\obj\Debug\CSDL_QLNS_QLLUONG.exe
+J:\LẬP TRÌNH .NET\dotnet_1\CSDL_QLNS_QLLUONG\obj\Debug\CSDL_QLNS_QLLUONG.pdb
+J:\LẬP TRÌNH .NET\dotnet_1\CSDL_QLNS_QLLUONG\obj\Debug\CSDL_QLNS_QLLUONG.FrmNhanVien.resources
+J:\LẬP TRÌNH .NET\dotnet_1\CSDL_QLNS_QLLUONG\obj\Debug\CSDL_QLNS_QLLUONG.FrmTIMKIEM.resources
+J:\LẬP TRÌNH .NET\dotnet_1\CSDL_QLNS_QLLUONG\obj\Debug\CSDL_QLNS_QLLUONG.FrmTIMKIEM2.resources
